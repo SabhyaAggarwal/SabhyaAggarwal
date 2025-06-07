@@ -6,9 +6,7 @@
 ---
 
 ## 🚀 Featured Project
-
 [![Manim-AI-Code-Generator](https://github.com/SabhyaAggarwal/Manim-AI-Code-Generator/raw/main/demo.gif)](https://github.com/SabhyaAggarwal/Manim-AI-Code-Generator)
-
 **[Manim-AI-Code-Generator](https://github.com/SabhyaAggarwal/Manim-AI-Code-Generator)**  
 *Generate beautiful Manim animations from natural language using AI!*
 
