@@ -28,4 +28,9 @@
 
 ---
 
+## My Github Stats(keep in mind I became active in May 2025)
+
+![Sabhya's Github Stats](https://github-readme-stats.vercel.app/api?username=SabhyaAggarwal&show_icons=true)
+---
+
 *Let’s connect and build something awesome together!*
