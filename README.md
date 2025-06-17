@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sabhya Aggarwal!
 
-🎓 **Student** | 🖥️ Python, Unity, C++, Linux, Microcontrollers Enthusiast  
+🎓 **Student** |My birthday is on June 18(edit: It’s my birthday) 🖥️ Python, Unity, C++, Linux, Microcontrollers Enthusiast  
 ✨ Passionate about blending software and hardware to create impactful, creative solutions.
 
 ---
