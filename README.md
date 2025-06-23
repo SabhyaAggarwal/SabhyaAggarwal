@@ -31,7 +31,7 @@
 ## My Github Stats(keep in mind I became active in May 2025)
 
 ![SabhyaAggarwal's Stats](https://github-readme-stats.vercel.app/api?username=SabhyaAggarwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![SabhyaAggarwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabhyaAggarwal&theme=vue-dark&hide_border=true)
+![SabhyaAggarwal's Streak(not working right now for some odd reason)](https://github-readme-streak-stats.herokuapp.com/?user=SabhyaAggarwal&theme=vue-dark&hide_border=true)
 ![SabhyaAggarwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabhyaAggarwal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
